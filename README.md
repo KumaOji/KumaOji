@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KumaOji/KumaOji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Kuma* (´｡• ω •｡`)
 
-Here are some ideas to get you started:
+**Personal Blog**  
+[🌐 http://8.134.147.122:30001/](http://8.134.147.122:30001/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+咕咕嘎嘎～ 🐻💕  
+(´• ω •`)ノ
+
+</div>
+
